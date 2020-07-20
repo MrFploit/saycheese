@@ -7,16 +7,21 @@ trap 'printf "\n";stop' 2
 
 banner() {
 
-printf "\e[1;92m       ⁪⁬⁮⁮⁮⁮         ⁪⁬⁮⁮⁮⁮   \e[0m\e"
+printf "\e[1;92m   _____                  _                             \e[0m\n"
+printf "\e[1;92m  / ____|                | |                            \e[0m\n"
+printf "\e[1;92m | (___   __ _ _   _  ___| |__   ___  ___  ___  ___     \e[0m\n"
+printf "\e[1;92m  \___ \ / _  | | | |/ __|  _ \ / _ \/ _ \/ __|/ _ \    \e[0m\n"
+printf "\e[1;92m  ____) | (_| | |_| | (__| | | |  __/  __/\__ \  __/    \e[0m\n"
+printf "\e[1;92m |_____/ \__,_|\__, |\___|_| |_|\___|\___||___/\___|    \e[0m\n"
+printf "\e[1;92m                __/ |                                   \e[0m\n"
+printf "\e[1;92m               |___/                                    \e[0m\n"
 
 
-printf "\e[1;92m       ⁪⁬⁮⁮⁮⁮         ⁪⁬⁮⁮⁮⁮   \e[0m\e"
-
-printf "\e[1;92m   Hack phone camera\e[0m\e   \e[0m\n"
-printf "\e[1;92m   Canal telegram: t.me/LinuxArmy\e[0m                                 \n"
-
-printf " \e[1;77m v1.0 coded by https://github.com/it4min/saycheese\e[0m \n"
-
+printf "\n"
+printf "\n"
+printf "\e[1;92m           t.me/LinuxArmy \e[0m\n"
+printf "\e[1;95m           Code by it4min\e[0m\n"
+printf "\e[1;92m           github : https://github.com/it4min/saycheese\e[0m\n"
 printf "\n"
 
 

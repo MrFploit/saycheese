@@ -11,7 +11,7 @@ $ apt install php git openssh -y </br>
 
 <h1>run</h1>
 <pre><code>
-$ git clone https://github.com/it4min/saycheese </br>
+$ git clone https://github.com/MrFploit/saycheese </br>
 $ cd saycheese
 $ bash saycheese.sh
 </pre></code>
